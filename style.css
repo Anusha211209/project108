@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    font-family: 'Arvo', serif;
+}
+
+.header_div{
+    background-color: rgba(121, 121, 121, 0.877);
+    color: rgb(255, 255, 255);
+}
+
+.header_div p{
+    font-family: 'Roboto', 'san-serif';
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main_div{
+    background-color: gainsboro;
+}
+
+.main_div button{
+    font-family: 'Roboto', 'san-serif';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
